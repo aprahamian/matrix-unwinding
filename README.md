@@ -10,6 +10,7 @@ Mary Aprahamian and Nicholas J. Higham, "[The matrix unwinding function, with an
 The main functions are
 
 *`unwind`: scalar unwinding number.
+
 *`unwindm`: matrix unwinding function.
 
 
